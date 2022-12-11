@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77285d1d211e403372a5247a8dc9919c",
+    "revision": "376b998da2d797acc3b9b141478d4e9d",
     "url": "/senior-vova/index.html"
   },
   {
-    "revision": "5d2a26e0741f09e4194e",
+    "revision": "8278c92e724982293148",
     "url": "/senior-vova/static/css/3.df879eac.chunk.css"
   },
   {
@@ -12,32 +12,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/senior-vova/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "57ba80a90476f0f6495b",
+    "revision": "1b8118409062b9c3248f",
     "url": "/senior-vova/static/css/main.042fd16f.chunk.css"
   },
   {
-    "revision": "c5d616e66ed8acf02ca3",
-    "url": "/senior-vova/static/js/2.3702f3cc.chunk.js"
+    "revision": "de5fd68b243867c4b36d",
+    "url": "/senior-vova/static/js/2.081c7e4c.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/senior-vova/static/js/2.3702f3cc.chunk.js.LICENSE.txt"
+    "url": "/senior-vova/static/js/2.081c7e4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5d2a26e0741f09e4194e",
-    "url": "/senior-vova/static/js/3.e53c868d.chunk.js"
+    "revision": "8278c92e724982293148",
+    "url": "/senior-vova/static/js/3.5e1e9211.chunk.js"
   },
   {
     "revision": "71cc65e49b226d5bb639",
     "url": "/senior-vova/static/js/4.53d228d9.chunk.js"
   },
   {
-    "revision": "57ba80a90476f0f6495b",
-    "url": "/senior-vova/static/js/main.a0b8980b.chunk.js"
+    "revision": "1b8118409062b9c3248f",
+    "url": "/senior-vova/static/js/main.68f1bb36.chunk.js"
   },
   {
-    "revision": "91f68a1f594021629a76",
-    "url": "/senior-vova/static/js/runtime-main.baa52656.js"
+    "revision": "3f52e4e7cd0d937a575c",
+    "url": "/senior-vova/static/js/runtime-main.6b884191.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
