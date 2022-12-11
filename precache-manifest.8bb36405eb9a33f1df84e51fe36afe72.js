@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "376b998da2d797acc3b9b141478d4e9d",
+    "revision": "a2692eadbac8a697af75e53cd43f4c40",
     "url": "/senior-vova/index.html"
   },
   {
