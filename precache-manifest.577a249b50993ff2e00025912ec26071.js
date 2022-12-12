@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e5c57fa0a10aa7ac5e43e9b2fb336bc",
+    "revision": "ef70a4252798bb010f75689d766eae0a",
     "url": "/senior-vova/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/senior-vova/static/css/4.d7ceb645.chunk.css"
   },
   {
-    "revision": "524739a2513af8b06dfc",
+    "revision": "0021b9bc0ea9c4b3ffb7",
     "url": "/senior-vova/static/css/main.042fd16f.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/senior-vova/static/js/4.c028939c.chunk.js"
   },
   {
-    "revision": "524739a2513af8b06dfc",
-    "url": "/senior-vova/static/js/main.b822d679.chunk.js"
+    "revision": "0021b9bc0ea9c4b3ffb7",
+    "url": "/senior-vova/static/js/main.90322f7f.chunk.js"
   },
   {
     "revision": "9f5ad0446c949f7f3826",

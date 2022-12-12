@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/senior-vova/static/css/main.042fd16f.chunk.css",
-    "main.js": "/senior-vova/static/js/main.b822d679.chunk.js",
-    "main.js.map": "/senior-vova/static/js/main.b822d679.chunk.js.map",
+    "main.js": "/senior-vova/static/js/main.90322f7f.chunk.js",
+    "main.js.map": "/senior-vova/static/js/main.90322f7f.chunk.js.map",
     "runtime-main.js": "/senior-vova/static/js/runtime-main.55569aab.js",
     "runtime-main.js.map": "/senior-vova/static/js/runtime-main.55569aab.js.map",
     "static/js/2.332838ac.chunk.js": "/senior-vova/static/js/2.332838ac.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/4.c028939c.chunk.js": "/senior-vova/static/js/4.c028939c.chunk.js",
     "static/js/4.c028939c.chunk.js.map": "/senior-vova/static/js/4.c028939c.chunk.js.map",
     "index.html": "/senior-vova/index.html",
-    "precache-manifest.237e28cd90c35bfad800e2ad9f66cbc1.js": "/senior-vova/precache-manifest.237e28cd90c35bfad800e2ad9f66cbc1.js",
+    "precache-manifest.577a249b50993ff2e00025912ec26071.js": "/senior-vova/precache-manifest.577a249b50993ff2e00025912ec26071.js",
     "service-worker.js": "/senior-vova/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/senior-vova/static/css/3.df879eac.chunk.css.map",
     "static/css/4.d7ceb645.chunk.css.map": "/senior-vova/static/css/4.d7ceb645.chunk.css.map",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.55569aab.js",
     "static/js/2.332838ac.chunk.js",
     "static/css/main.042fd16f.chunk.css",
-    "static/js/main.b822d679.chunk.js"
+    "static/js/main.90322f7f.chunk.js"
   ]
 }
