@@ -103,15 +103,15 @@ const skillsSection = {
     },
     {
       skillName: "nest",
-      fontAwesomeClassname: "fa-brands fa-node-js"
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "c++",
-      fontAwesomeClassname: "fa-solid fa-c"
+      fontAwesomeClassname: "fas fa-c"
     },
     {
       skillName: "mongo",
-      fontAwesomeClassname: "fa-solid fa-database"
+      fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "react native",
@@ -119,7 +119,7 @@ const skillsSection = {
     },
     {
       skillName: "typescript",
-      fontAwesomeClassname: "fa-brands fa-js"
+      fontAwesomeClassname: "fab fa-js"
     }
   ],
   display: true
@@ -165,7 +165,7 @@ const workExperiences = {
       role: "FullStack Developer",
       company: "I/O Dev Team",
       companylogo: require("./assets/images/io-logo.png"),
-      date: "January 2020 – Present",
+      date: "2020 – Present",
       desc: "",
       descBullets: []
     },
@@ -180,7 +180,7 @@ const workExperiences = {
       role: "Team Lead",
       company: "AGS Dev Team",
       companylogo: require("./assets/images/ags-logo.png"),
-      date: "January 2022 - Present",
+      date: "2021 - Present",
       desc: ""
     }
   ]
